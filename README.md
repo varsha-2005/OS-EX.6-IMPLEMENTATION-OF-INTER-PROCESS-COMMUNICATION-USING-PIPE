@@ -100,6 +100,6 @@ OUTPUT:
 
 RESULT:
 
-thus we got the output for the above experiment.
+Thus we got the output for the above experiment.
 
 
